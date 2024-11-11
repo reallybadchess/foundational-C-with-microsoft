@@ -3,3 +3,13 @@ C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0
 C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.AssemblyInfo.cs
 C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.csproj.CoreCompileInputs.cache
 C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.sourcelink.json
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.exe
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.deps.json
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.runtimeconfig.json
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.dll
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\bin\Debug\net8.0\DiceProject.pdb
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.dll
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\refint\DiceProject.dll
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.pdb
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.genruntimeconfig.cache
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\ref\DiceProject.dll
