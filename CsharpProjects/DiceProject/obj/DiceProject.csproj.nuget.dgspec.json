@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\foundational-C-with-microsoft\\CSharpProjects\\DiceProject\\DiceProject.csproj": {}
+    "C:\\Dev\\foundational-C-with-microsoft\\CsharpProjects\\DiceProject\\DiceProject.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\foundational-C-with-microsoft\\CSharpProjects\\DiceProject\\DiceProject.csproj": {
+    "C:\\Dev\\foundational-C-with-microsoft\\CsharpProjects\\DiceProject\\DiceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\foundational-C-with-microsoft\\CSharpProjects\\DiceProject\\DiceProject.csproj",
+        "projectUniqueName": "C:\\Dev\\foundational-C-with-microsoft\\CsharpProjects\\DiceProject\\DiceProject.csproj",
         "projectName": "DiceProject",
-        "projectPath": "C:\\Dev\\foundational-C-with-microsoft\\CSharpProjects\\DiceProject\\DiceProject.csproj",
+        "projectPath": "C:\\Dev\\foundational-C-with-microsoft\\CsharpProjects\\DiceProject\\DiceProject.csproj",
         "packagesPath": "C:\\Users\\mraph\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\foundational-C-with-microsoft\\CSharpProjects\\DiceProject\\obj\\",
+        "outputPath": "C:\\Dev\\foundational-C-with-microsoft\\CsharpProjects\\DiceProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mraph\\AppData\\Roaming\\NuGet\\NuGet.Config"
