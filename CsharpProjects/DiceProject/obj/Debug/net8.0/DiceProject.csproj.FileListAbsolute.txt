@@ -1,0 +1,5 @@
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.AssemblyInfoInputs.cache
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.AssemblyInfo.cs
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.csproj.CoreCompileInputs.cache
+C:\Dev\foundational-C-with-microsoft\CSharpProjects\DiceProject\obj\Debug\net8.0\DiceProject.sourcelink.json
