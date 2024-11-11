@@ -1,0 +1,15 @@
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Dev\foundational-C-with-microsoft\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
