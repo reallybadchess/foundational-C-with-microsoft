@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiceProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21032c7c7f6edab105652636dbf0bc0f37468a92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2643e102520e7c14844df3f87e0e7f38220134f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiceProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiceProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
